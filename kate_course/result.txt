@@ -1,0 +1,36 @@
+Student Name: Петрова Мария Сергеевна
+Birthdate: 15/3/1999
+Enrollment Year: 2017
+Faculty: Химический
+Department: Органической химии
+Group: ХМБО0917
+Record Book Number: 654321
+Gender: Ж
+Session 1:
+  2:Математика: 4
+  2:Химия: 4
+  Биология: 4
+  Математика: 5
+  Физика: 4
+  Химия: 5
+
+Student Name: Сидоров Николай Петрович
+Birthdate: 22/8/2001
+Enrollment Year: 2019
+Faculty: Математический
+Department: Прикладной математики
+Group: МБИО3319
+Record Book Number: 789012
+Gender: М
+Session 1:
+  2:Алгебра: 4
+  2:Математика: 4
+  2:Химия: 4
+  Алгебра: 5
+  Биология: 4
+  Геометрия: 4
+  Информатика: 5
+  Математика: 5
+  Физика: 4
+  Химия: 5
+
